@@ -1,0 +1,6 @@
+{
+  "name": "Meeting Brief Generator",
+  "description": "Searches today's Google Calendar meetings, retrieves attendee lists and matching Google Docs from Google Drive, and synthesizes a comprehensive briefing outline into a new Google Doc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
